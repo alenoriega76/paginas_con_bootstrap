@@ -31,3 +31,8 @@ h1{
 .text-center{
     width: 100%;   
 }
+.fab img{
+    width: 18.5px;
+    height: 18.5px;
+    align-items: center;
+}
